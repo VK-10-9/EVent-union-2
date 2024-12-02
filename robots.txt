@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://coruscating-dasik-7fd5ba.netlify.app/sitemap.xml
