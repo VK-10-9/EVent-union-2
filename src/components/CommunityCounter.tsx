@@ -6,7 +6,7 @@ export default function CommunityCounter() {
   const [count, setCount] = useState(0);
   const [isVisible, setIsVisible] = useState(false);
   const counterRef = useRef(null);
-  const targetCount = 378;
+  const targetCount = 400;
 
   useEffect(() => {
     const observer = new IntersectionObserver(
